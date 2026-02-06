@@ -11,7 +11,7 @@ import json
 import os
 
 # Variables and Data Types
-name: str = "Python Dev"
+name: str = "Python Dev siyad"
 age: int = 30
 height: float = 5.9
 is_student: bool = True
