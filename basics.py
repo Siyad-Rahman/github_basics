@@ -7,7 +7,7 @@ from typing import List, Dict, Optional, Any
 from dataclasses import dataclass
 
 # Variables and Data Types
-name: str = "Python Dev"
+name: str = "Python Dev Fazil"
 age: int = 30
 height: float = 5.9
 is_student: bool = True
